@@ -12,7 +12,7 @@ The Chinese University of Hong Kong
 
 For more information about the dataset, visit the website:
 
-  http://www.cse.cuhk.edu.hk/~curto/publication/HR-DCGAN
+  http://www.cse.cuhk.edu.hk/~curto/publication/hr-dcgan/
 
 If you use the dataset in a publication, please cite the paper below:
 
