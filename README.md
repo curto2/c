@@ -17,8 +17,7 @@ For more information about the dataset, visit the website:
 If you use the dataset in a publication, please cite the paper below:
 
 Curto, J. D., Zarza, I. C., De La Torre, F., King, I., Lyu, M. R.
-High-Resolution Deep Generative Adversarial Networks. 2017.
-
+High-Resolution Deep Generative Adversarial Networks. 2017. https://arxiv.org/abs/1711.06491
 
 Please note that we do not own the copyrights to these images. Their use is RESTRICTED to non-commercial research and educational purposes.
 
