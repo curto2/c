@@ -26,6 +26,7 @@ Change Log
 --------------------------------------------------------
 
 Version 1.0, released on 17/11/2017
+
 Version 1.1, released on 21/11/2017, add labels with attribute information.
 
 --------------------------------------------------------
