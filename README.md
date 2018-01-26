@@ -4,7 +4,7 @@ Curtó Zarza Faces (CZF) is a well-balanced face dataset for Generative Adversar
 Download Link: https://www.dropbox.com/s/y5bef3g5xcsvnkf/CZF_19_01_2018.zip?dl=0
 
 --------------------------------------------------------
-Curtó Zarza Faces (CZF) Dataset
+CZF Dataset
 --------------------------------------------------------
 
 Department of Computer Science and Engineering, 
