@@ -1,10 +1,10 @@
 # CZF
-C. Z. Faces (CZF) is a well-balanced face dataset for Generative Adversarial Networks (GAN) training.
+Curtó Zarza Faces (CZF) is a well-balanced face dataset for Generative Adversarial Networks (GAN) training.
 
 Download Link: https://www.dropbox.com/s/y5bef3g5xcsvnkf/CZF_19_01_2018.zip?dl=0
 
 --------------------------------------------------------
-C. Z. Faces (CZF) Dataset
+Curtó Zarza Faces (CZF) Dataset
 --------------------------------------------------------
 
 Department of Computer Science and Engineering, 
@@ -16,7 +16,7 @@ For more information about the dataset, visit the website:
 
 If you use the dataset in a publication, please cite the paper below:
 
-Curto, J. D., Zarza, I. C., De La Torre, F., King, I., Lyu, M. R.
+Curtó, J. D., Zarza, I. C., De La Torre, F., King, I., Lyu, M. R.
 High-Resolution Deep Generative Adversarial Networks. 2017.
 
 Please note that we do not own the copyrights to these images. Their use is RESTRICTED to non-commercial research and educational purposes.
@@ -40,4 +40,4 @@ File Information
 - Labels (label/CZF.zip)
       JSON files with attribute information: Gender, Age, Ethnicity, Hair Color, Hair Style, Eyes Color, Facial Hair, Glasses, Visible Forehead, Hair Covered and Smile.
 - Additional images (extra/CZF.zip)
-      3,384 cropped face images with labels, ethnicity: white.
+      3,384 cropped face images with labels, Ethnicity: white.
