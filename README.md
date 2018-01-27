@@ -1,10 +1,10 @@
 # CZF
-CZF is a well-balanced face dataset for Generative Adversarial Networks (GAN) training.
+C. Z. Faces (CZF) is a well-balanced face dataset for Generative Adversarial Networks (GAN) training.
 
 Download Link: https://www.dropbox.com/s/y5bef3g5xcsvnkf/CZF_19_01_2018.zip?dl=0
 
 --------------------------------------------------------
-CZF Dataset
+C. Z. Faces (CZF) Dataset
 --------------------------------------------------------
 
 Department of Computer Science and Engineering, 
