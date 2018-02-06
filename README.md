@@ -14,7 +14,7 @@ The Chinese University of Hong Kong
 
 For more information about the dataset, visit the website:
 
-  http://www.cse.cuhk.edu.hk/~curto/publication/hdcgan
+  https://curto2.github.io/publication/hdcgan/
 
 If you use the dataset in a publication, please cite the paper below:
 
