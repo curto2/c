@@ -35,7 +35,7 @@ Version 1.2, released on 19/01/2018, add supplementary images and labels.
 
 Version 1.3, released on 27/01/2018, add HDCGAN Synthetic Images.
 
-Version 2.0, released on 09/02/2018, add HDCGAN High-Quality Synthetic Images.
+Version 2.0, released on 09/02/2018, add HDCGAN HQ Synthetic Images.
 
 --------------------------------------------------------
 File Information
