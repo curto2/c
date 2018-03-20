@@ -10,6 +10,7 @@ https://www.dropbox.com/s/duha95rpvzb6v9n/cz_09_02_2018_01.zip?dl=0
 https://www.dropbox.com/s/b1zusiea0hmcmje/cz_09_02_2018_02.zip?dl=0
 
 ![HDCGAN Table](HDCGAN_table.png)
+![HDCGAN HQ](HDCGAN_HQ.png)
 
 --------------------------------------------------------
 Curtó Zarza (CZ) 
