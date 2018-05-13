@@ -10,7 +10,7 @@ https://www.dropbox.com/s/duha95rpvzb6v9n/cz_09_02_2018_01.zip?dl=0 (1.16 GB)
 https://www.dropbox.com/s/b1zusiea0hmcmje/cz_09_02_2018_02.zip?dl=0 (1.28 GB)
 
 Alternate Links:
-http://pc.cd/3617 (2.4 GB)  http://pc.cd/Vxg (2.4 GB)
+http://pc.cd/4o7 (2.4 GB)  http://pc.cd/rbp7 (2.4 GB)
 
 ![HDCGAN Table](HDCGAN_table.png)
 ![HDCGAN HQ](HDCGAN_HQ.png)
