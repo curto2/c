@@ -9,8 +9,9 @@ https://www.dropbox.com/s/duha95rpvzb6v9n/cz_09_02_2018_01.zip?dl=0 (1.16 GB)
 
 https://www.dropbox.com/s/b1zusiea0hmcmje/cz_09_02_2018_02.zip?dl=0 (1.28 GB)
 
-Alternate Links:
+Alternate Links: 
 http://pc.cd/4o7 (2.4 GB)  http://pc.cd/rbp7 (2.4 GB)
+http://naver.me/xewtodcX (2.4 GB) http://naver.me/5Ompfuvf (2.4 GB)
 
 ![HDCGAN Table](HDCGAN_table.png)
 ![HDCGAN HQ](HDCGAN_HQ.png)
@@ -24,7 +25,7 @@ The Chinese University of Hong Kong
 
 For more information about the dataset, visit the website:
 
-  https://curto2.github.io/publication/hdcgan/
+  http://www.tinet.cat/~curto/publication/hdcgan/
 
 If you use the dataset in a publication, please cite the paper below:
 
