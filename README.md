@@ -17,7 +17,7 @@ http://naver.me/xewtodcX (2.4 GB) http://naver.me/5Ompfuvf (2.4 GB)
 ![HDCGAN HQ](HDCGAN_HQ.png)
 
 --------------------------------------------------------
-Curtó Zarza (CZ) 
+Curtó & Zarza 
 --------------------------------------------------------
 
 Department of Computer Science and Engineering, 
