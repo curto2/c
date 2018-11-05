@@ -12,6 +12,7 @@ https://www.dropbox.com/s/b1zusiea0hmcmje/c_09_02_2018_02.zip?dl=0 (1.28 GB)
 Alternate Links:
 
 https://www.mycloud.ch/s/S002643B7C268528B9E21BC1E0F3D421A4740A9EC43 (2.4 GB) https://www.mycloud.ch/s/S0055B87F1276E8332E08312DD26FD24D92EF979669 (2.4 GB)
+
 http://naver.me/5HFuop73 (2.4 GB) http://naver.me/5EltP7ha (2.4 GB)
 
 ![HDCGAN Table](HDCGAN_table.png)
