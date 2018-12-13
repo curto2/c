@@ -3,17 +3,17 @@ Curtó is the first Generative Adversarial Networks (GAN) augmented face dataset
 
 Neil Armstrong — 'That's one small step for a man, one giant leap for mankind'
 
-Download Links: 
+Download Link: 
 
-https://www.dropbox.com/s/duha95rpvzb6v9n/c_09_02_2018_01.zip?dl=0 (1.16 GB)
-
-https://www.dropbox.com/s/b1zusiea0hmcmje/c_09_02_2018_02.zip?dl=0 (1.28 GB)
+https://drive.google.com/open?id=1q-FC_wztJ5vRHnb5zu7EzTN89xoBXr1- (4 GB)
 
 Alternate Links:
 
-https://www.mycloud.ch/s/S002643B7C268528B9E21BC1E0F3D421A4740A9EC43 (2.4 GB) https://www.mycloud.ch/s/S0055B87F1276E8332E08312DD26FD24D92EF979669 (2.4 GB)
+https://drive.google.com/open?id=1errsAGh3BrCABZCHjt7Yzuj92AxE0X7u (4 GB)
 
-http://naver.me/5HFuop73 (2.4 GB) http://naver.me/5EltP7ha (2.4 GB)
+http://naver.me/5O4fpZe5 (4 GB) http://naver.me/GEQMlasT (4 GB)
+
+http://pc.cd/4o7 (4 GB) http://pc.cd/rbp7 (4 GB)
 
 ![HDCGAN Table](HDCGAN_table.png)
 ![HDCGAN HQ](HDCGAN_HQ.png)
@@ -22,12 +22,15 @@ http://naver.me/5HFuop73 (2.4 GB) http://naver.me/5EltP7ha (2.4 GB)
 Curtó & Zarza 
 --------------------------------------------------------
 
-Department of Computer Science and Engineering, 
-The Chinese University of Hong Kong
+Department of Computer Science and Engineering. 
+The Chinese University of Hong Kong.
+
+Department of Computer Science and Mathematics.
+Rovira Virgili.
 
 For more information about the dataset, visit the website:
 
-  http://www.tinet.cat/~curto/publication/hdcgan/
+  http://curto.hk/publication/hdcgan/
 
 If you use the dataset in a publication, please cite the paper below:
 
