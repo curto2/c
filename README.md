@@ -1,5 +1,5 @@
 # Curtó & Zarza
-Curtó is the first Generative Adversarial Networks (GAN) augmented dataset of faces. A key step towards Artificial General Intelligence (AGI).
+Curtó is the first GAN (Generative Adversarial Networks) augmented dataset of faces. A key step towards Artificial General Intelligence (AGI).
 
 Neil Armstrong — 'That's one small step for a man, one giant leap for mankind'
 
