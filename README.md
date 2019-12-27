@@ -11,7 +11,7 @@ Alternate Links:
 
 https://drive.google.com/open?id=1errsAGh3BrCABZCHjt7Yzuj92AxE0X7u (4 GB)
 
-http://naver.me/5O4fpZe5 (4 GB) http://naver.me/GEQMlasT (4 GB)
+http://naver.me/G1dOmRo4 (4 GB) http://naver.me/Fmp53Ufw (4 GB)
 
 ![HDCGAN Table](HDCGAN_table.png)
 ![HDCGAN HQ](HDCGAN_HQ.png)
