@@ -3,15 +3,15 @@ Curtó is the first GAN (Generative Adversarial Networks) augmented dataset of f
 
 Neil Armstrong — 'That's one small step for a man, one giant leap for mankind'
 
-Download Link: 
+Link to Download:
 
-https://drive.google.com/open?id=1q-FC_wztJ5vRHnb5zu7EzTN89xoBXr1- (4 GB)
+<a href="https://drive.google.com/open?id=1q-FC_wztJ5vRHnb5zu7EzTN89xoBXr1-">Curtó & Zarza (4 GB)</a>
 
-Alternate Links:
+Alternate Links to Download:
 
-https://drive.google.com/open?id=1errsAGh3BrCABZCHjt7Yzuj92AxE0X7u (4 GB)
+<a href="https://share.weiyun.com/5OsGy9A">Curtó & Zarza (4 GB)</a>
 
-http://naver.me/G1dOmRo4 (4 GB) http://naver.me/Fmp53Ufw (4 GB)
+<a href="https://share.weiyun.com/5a41KnC">Curtó & Zarza (4 GB)</a>
 
 ![HDCGAN Table](HDCGAN_table.png)
 ![HDCGAN HQ](HDCGAN_HQ.png)
