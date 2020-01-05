@@ -5,13 +5,13 @@ Neil Armstrong — 'That's one small step for a man, one giant leap for mankind'
 
 Link to Download:
 
-<a href="https://drive.google.com/open?id=1q-FC_wztJ5vRHnb5zu7EzTN89xoBXr1-">Curtó & Zarza (4 GB)</a>
+<a href="https://drive.google.com/open?id=1q-FC_wztJ5vRHnb5zu7EzTN89xoBXr1-">Curtó & Zarza (4 GB).</a>
 
 Alternate Links to Download:
 
-<a href="https://share.weiyun.com/5OsGy9A">Curtó & Zarza (4 GB)</a>
+<a href="https://share.weiyun.com/5OsGy9A">Curtó & Zarza (4 GB).</a>
 
-<a href="https://share.weiyun.com/5a41KnC">Curtó & Zarza (4 GB)</a>
+<a href="https://share.weiyun.com/5a41KnC">Curtó & Zarza (4 GB).</a>
 
 ![HDCGAN Table](HDCGAN_table.png)
 ![HDCGAN HQ](HDCGAN_HQ.png)
