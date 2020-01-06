@@ -14,8 +14,10 @@ Alternate Links to Download:
 
 <a href="https://share.weiyun.com/5a41KnC">Curtó & Zarza (4 GB).</a>
 
-![HDCGAN Table](HDCGAN_table.png)
-![HDCGAN HQ](HDCGAN_HQ.png)
+<p align="center">
+<img src="HDCGAN_HQ.png" width="800">
+<img src="HDCGAN_table.png" width="600">
+</p>
 
 --------------------------------------------------------
 Curtó & Zarza 
