@@ -10,9 +10,9 @@ Links to Download:
 
 Alternate Links to Download:
 
-<a href="https://share.weiyun.com/5OsGy9A">Curtó & Zarza (4 GB).</a>
+<a href="https://share.weiyun.com/5e4H14v">Curtó & Zarza (4 GB).</a>
 
-<a href="https://share.weiyun.com/5a41KnC">Curtó & Zarza (4 GB).</a>
+<a href="https://share.weiyun.com/5cOfvKx">Curtó & Zarza (4 GB).</a>
 
 <p align="center">
 <img src="HDCGAN_HQ.png" width="800">
