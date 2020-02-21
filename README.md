@@ -1,7 +1,9 @@
 # Curtó & Zarza
 Curtó is the first GAN (Generative Adversarial Networks) augmented dataset of faces. A key step towards Artificial General Intelligence (AGI).
 
-Neil Armstrong — 'That's one small step for a man, one giant leap for mankind'.
+Armstrong — 'That's one small step for a man, one giant leap for mankind'.
+
+Churchill — 'We shall never surrender'.
 
 Links to Download:
 
