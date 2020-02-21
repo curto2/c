@@ -15,11 +15,11 @@ def to_csv():
     for z in files:
         file_data = open('labels/{}'.format(z))   
         data = c.load(file_data)
-        value = (z + '.png',  data[0], data[1], data[2], data[3], data[4], data[5], data[6], data[7], data[8], data[9], data[10])
+        value = (z + '.png', data[0], data[1], data[2], data[3], data[4], data[5], data[6], data[7], data[8], data[9], data[10])
         list_csv.append(value)
 
     name_column = ['Filename', 'Age', 'Ethnicity', 'Eyes Color', 'Facial Hair', 'Gender', 'Glasses', 'Hair Color', 'Hair Covered', 'Hair Style', 'Smile', 'Visible Forehead']
-    df_csv = ps.DataFrame(list_csv, columns=name_column)
+    df_csv = ps.DataFrame(list_csv, columns = name_column)
     labels_train = list(set(list_csv))
     with open("c&z.p", "wb") as fp:   #Pickling
         pickle.dump(labels_train, fp)
