@@ -1,6 +1,6 @@
 # Script to generate CSV file and pickle from labels.
 # Curtó and Zarza.
-# c@decurto.ch z@dezarza.ch
+# c@decurto.tw z@dezarza.tw
 
 import os
 import glob
