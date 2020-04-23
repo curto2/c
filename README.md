@@ -11,7 +11,7 @@ Links to Download:
 <a href="https://share.weiyun.com/5CgohW5"><strong>Preview.</strong></a>
 
 <a href="https://drive.google.com/drive/folders/1ZTixVobE82fNab7LQz6BRT_jnMbXoGcF?usp=sharing">DeCurtó+ (38 GB).</a>
-<a href="https://www.decurto.tw/DeCurto+/DeCurto+_17_04_2020/">Preview.</a>
+<a href="https://www.decurto.tw/DeCurto+/DeCurto+_17_04_2020/"><strong>Preview.</strong></a>
 
 Alternate Links to Download:
 
