@@ -10,7 +10,7 @@ Links to Download:
 <a href="https://drive.google.com/open?id=1q-FC_wztJ5vRHnb5zu7EzTN89xoBXr1-">Curtó & Zarza (4 GB).</a>
 <a href="https://share.weiyun.com/5CgohW5"><strong>Preview.</strong></a>
 
-<a href="https://www.decurto.tw/DeCurto+/DeCurto+_17_04_2020.zip">DeCurtó+ (38 GB).</a>
+<a href="https://drive.google.com/file/d/1V1msL-_ESHXvqo-z3UFbbl41cBVql9_n/view?usp=sharing">DeCurtó+ (38 GB).</a>
 <a href="https://drive.google.com/drive/folders/1ZTixVobE82fNab7LQz6BRT_jnMbXoGcF?usp=sharing"><strong>Preview.</strong></a>
 
 Alternate Links to Download:
@@ -18,6 +18,7 @@ Alternate Links to Download:
 <a href="https://share.weiyun.com/5lAgqlG">Curtó & Zarza (4 GB).</a>
 <a href="https://share.weiyun.com/5kcGahm">Curtó & Zarza (4 GB).</a>
 
+<a href="https://www.decurto.tw/DeCurto+/DeCurto+_17_04_2020.zip">DeCurtó+ (38 GB).</a>
 <a href="https://www.dezarza.tw/DeCurto+/DeCurto+_17_04_2020.zip">DeCurtó+ (38 GB).</a>
 <a href="https://www.decurto.tw/DeCurto+/DeCurto+_17_04_2020/"><strong>Preview.</strong></a>
 
