@@ -21,6 +21,8 @@ Alternate Links to Download:
 <a href="https://www.dezarza.tw/DeCurto+/DeCurto+_17_04_2020.zip">DeCurtó+ (38 GB).</a>
 <a href="https://www.decurto.tw/DeCurto+/DeCurto+_17_04_2020/"><strong>Preview.</strong></a>
 
+<a href="https://share.weiyun.com/5xhMlpF">128x128 DeCurtó+ (2 GB). <strong>Preview.</strong></a>
+
 <p align="center">
 <img src="HDCGAN_HQ.png" width="800">
 <img src="HDCGAN_table.png" width="600">
