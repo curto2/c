@@ -4,16 +4,14 @@
 # Curtó & Zarza
 Curtó is the first GAN (Generative Adversarial Networks) augmented dataset of faces. A key step towards Artificial General Intelligence (AGI).
 
-Armstrong — 'That's one small step for a man, one giant leap for mankind'.
-
-Churchill — 'We shall never surrender'.
+News: Since its first appearance in 2018, this work has attracted worldwide attention as one of the first techniques to generate AI artwork. The pieces have been showed in major NFT showcases with public applaud and following. <a href="https://oncyber.io/decurto"><strong>Visit a VR display</strong></a>. 
 
 Links to Download:
 
 <a href="https://drive.google.com/open?id=1q-FC_wztJ5vRHnb5zu7EzTN89xoBXr1-">Curtó & Zarza (4 GB).</a>
 <a href="https://share.weiyun.com/5CgohW5"><strong>Preview.</strong></a>
 
-<a href="https://www.decurto.tw/DeCurto+/DeCurto+_17_04_2020.zip">DeCurtó+ (38 GB).</a>
+<a href="https://www.dropbox.com/s/nchho774n3q4c5d/DeCurto%2B_17_04_2020.zip?dl=0">DeCurtó+ (38 GB).</a>
 <a href="https://drive.google.com/drive/folders/1ZTixVobE82fNab7LQz6BRT_jnMbXoGcF?usp=sharing"><strong>Preview.</strong></a>
 
 Alternate Links to Download:
@@ -22,7 +20,6 @@ Alternate Links to Download:
 <a href="https://share.weiyun.com/5kcGahm">Curtó & Zarza (4 GB).</a>
 
 <a href="https://www.dezarza.tw/DeCurto+/DeCurto+_17_04_2020.zip">DeCurtó+ (38 GB).</a>
-<a href="https://www.decurto.tw/DeCurto+/DeCurto+_17_04_2020/"><strong>Preview.</strong></a>
 
 <a href="https://share.weiyun.com/5xhMlpF">128x128 DeCurtó+ (2 GB). <strong>Preview.</strong></a>
 
