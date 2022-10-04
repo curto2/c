@@ -4,7 +4,7 @@
 # Curtó & Zarza
 Curtó is the first GAN (Generative Adversarial Networks) augmented dataset of faces. A key step towards Artificial General Intelligence (AGI).
 
-News: Since its first appearance in 2018, this work has attracted worldwide attention as one of the first techniques to generate AI artwork. The pieces have been showed in major NFT showcases with public applaud and following. <a href="https://oncyber.io/decurto"><strong>Visit a VR display</strong></a>. 
+**News:** Since its first appearance in 2017, this work has attracted worldwide attention as one of the first techniques to generate AI artwork. The pieces have been showed in major NFT showcases with public applaud and following. <a href="https://oncyber.io/decurto"><strong>Visit a VR display</strong></a>. 
 
 Links to Download:
 
